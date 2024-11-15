@@ -1,0 +1,22 @@
+[
+    {"nome": "Jennifer", "cidade": "Aracaju", "idade": 25, "salario": 3500},
+    {"nome": "Pedro", "cidade": "Aracaju", "idade": 32, "salario": 4200},
+    {"nome": "Carlos", "cidade": "Salvador", "idade": 28, "salario": 2900},
+    {"nome": "Maria", "cidade": "Recife", "idade": 41, "salario": 5000},
+    {"nome": "Lucas", "cidade": "Fortaleza", "idade": 30, "salario": 3800},
+    {"nome": "Beatriz", "cidade": "Salvador", "idade": 27, "salario": 3200},
+    {"nome": "Roberto", "cidade": "Aracaju", "idade": 35, "salario": 4500},
+    {"nome": "Fernanda", "cidade": "Recife", "idade": 33, "salario": 4100},
+    {"nome": "Jorge", "cidade": "Salvador", "idade": 29, "salario": 3300},
+    {"nome": "Ana", "cidade": "Fortaleza", "idade": 26, "salario": 3000},
+    {"nome": "Tatiane", "cidade": "Aracaju", "idade": 23, "salario": 2700},
+    {"nome": "Felipe", "cidade": "Recife", "idade": 37, "salario": 4700},
+    {"nome": "Juliana", "cidade": "Salvador", "idade": 31, "salario": 4200},
+    {"nome": "Marcos", "cidade": "Fortaleza", "idade": 34, "salario": 3600},
+    {"nome": "Carla", "cidade": "Aracaju", "idade": 29, "salario": 3900},
+    {"nome": "Ricardo", "cidade": "Recife", "idade": 38, "salario": 5200},
+    {"nome": "Larissa", "cidade": "Salvador", "idade": 27, "salario": 3100},
+    {"nome": "Eduardo", "cidade": "Fortaleza", "idade": 32, "salario": 4300},
+    {"nome": "Gustavo", "cidade": "Aracaju", "idade": 28, "salario": 3800},
+    {"nome": "Isabela", "cidade": "Recife", "idade": 36, "salario": 4600}
+]
